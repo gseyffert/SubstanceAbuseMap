@@ -1,0 +1,247 @@
+   category_code,category_name,service_code,service_name,service_description,sa_code,mh_code,both_code 
+PF,Primary Focus of the Provider,SAF,Substance Abuse Treatment Services,,Y,N,N
+PF,Primary Focus of the Provider,MHF,Mental Health Treatment Services,,Y,N,N
+PF,Primary Focus of the Provider,MHSAF,Mix of Mental Health and Substance Abuse,,Y,N,N
+PF,Primary Focus of the Provider,GHF,General health services,,Y,N,N
+TC,Type of Care,MH,Mental health treatment    ,,N,Y,N
+TC,Type of Care,SA,Substance abuse treatment  ,,Y,N,N
+TC,Type of Care,DT,Detoxification  ,,Y,N,N
+TC,Type of Care,MM,Methadone maintenance  ,,Y,N,N
+TC,Type of Care,MMW,Methadone maintenance for predetermined time ,,Y,N,N
+TC,Type of Care,DM,Methadone detoxification  ,,Y,N,N
+TC,Type of Care,BUM,Buprenorphine maintenance  ,,Y,N,N
+TC,Type of Care,BMW,Buprenorphine maintenance for predetermined time ,,Y,N,N
+TC,Type of Care,DB,Buprenorphine detoxification  ,,Y,N,N
+TC,Type of Care,RPN,Relapse prevention from naltrxone  ,,Y,N,N
+TC,Type of Care,BU,Buprenorphine used in treatment,,Y,N,N
+TC,Type of Care,DSF,Disulfiram(Antabuse®),,Y,N,N
+TC,Type of Care,ACM,Acamprosate(Campral®),,Y,N,N
+TC,Type of Care,MPD,Medications for psychiatric disorders),,Y,N,N
+TC,Type of Care,NXN,Naltrexone (oral),,Y,N,N
+TC,Type of Care,VTRL,Vivitrol® (injectable Naltrexone),,Y,N,N
+TC,Type of Care,METH,Methadone,,Y,N,N
+TC,Type of Care,HH,Transitional housing or halfway house,,Y,N,N
+TC,Type of Care,NOOP,Do not treat opioid addiction,,Y,N,N
+TC,Type of Care,PAIN,Use methadone/buprenorphine for pain management or emergency dosing,,Y,N,N
+TC,Type of Care,NMOA,Do not use medication for opioid addiction ,,Y,N,N
+TC,Type of Care,MOA,Accepts clients on opioid medication ,,Y,N,N
+TC,Type of Care,UBN,Prescribes/administer buprenorphine and/or naltrexone ,,Y,N,N
+TC,Type of Care,OTPA,All Clients in Opioid Treatment Program,,Y,N,N
+TC,Type of Care,OTP,SAMHSA-certified Opioid Treatment Program,,Y,N,N
+FT,Facility Type,PSY,Psychiatric hospital or psychiatric unit of a general hospital,,N,Y,N
+FT,Facility Type,RTCC,Residential treatment center (RTC) for children ,,N,Y,N
+FT,Facility Type,RTCA,Residential treatment center (RTC) for adults ,,N,Y,N
+FT,Facility Type,ORES,Other residential treatment facility  ,,N,Y,N
+FT,Facility Type,PH,Partial hospitalization/day treatment,,N,Y,N
+FT,Facility Type,OMH,Outpatient mental health facility,,N,Y,N
+FT,Facility Type,CMHC,Community mental health center,,N,Y,N
+FT,Facility Type,MSNH,"Multi-setting mental health facility (e.g., residential plus outpatient)",,N,Y,N
+TAP,Treatment Approaches,IPT,Individual psychotherapy,,N,Y,N
+TAP,Treatment Approaches,CFT,Couples/family therapy,,N,Y,N
+TAP,Treatment Approaches,GT,Group therapy,,N,Y,N
+TAP,Treatment Approaches,CBT,Cognitive/behavioral therapy,,Y,Y,Y
+TAP,Treatment Approaches,DBT,Dialectical behavioral therapy,,Y,Y,Y
+TAP,Treatment Approaches,BMT,Behavior modification,,N,Y,N
+TAP,Treatment Approaches,IDD,Integrated dual disorders treatment,,N,Y,N
+TAP,Treatment Approaches,TT,Trauma therapy,,N,Y,N
+TAP,Treatment Approaches,AT,Activity therapy,,N,Y,N
+TAP,Treatment Approaches,ECT,Electroconvulsive therapy,,N,Y,N
+TAP,Treatment Approaches,PTM,Psychotropic medication,,N,Y,N
+TAP,Treatment Approaches,TELE,Telemedicine therapy,,N,Y,N
+TAP,Treatment Approaches,SACA,Substance abuse counseling approach ,,Y,N,N
+TAP,Treatment Approaches,TRC,Trauma-related counseling ,,Y,N,N
+TAP,Treatment Approaches,REBT,Rational emotive behavioral therapy ,,Y,N,N
+TAP,Treatment Approaches,TWFA,12-step facilitation approach ,,Y,N,N
+TAP,Treatment Approaches,BIA,Brief intervention approach ,,Y,N,N
+TAP,Treatment Approaches,CMI,Contingency management/motivational incentive ,,Y,N,N
+TAP,Treatment Approaches,MOTI,Motivational interviewing ,,Y,N,N
+TAP,Treatment Approaches,ANG,Anger management ,,Y,N,N
+TAP,Treatment Approaches,MXM,Martix Model ,,Y,N,N
+TAP,Treatment Approaches,CRV,Community reinforcement plus vouchers ,,Y,N,N
+TAP,Treatment Approaches,RELP,Relapse prevention  ,,Y,N,N
+SMP,Facility Smoking Policy ,SMON,Smoking not permitted,,Y,Y,Y
+SMP,Facility Smoking Policy ,SMPD,Smoking permitted in designated area,,Y,Y,Y
+SMP,Facility Smoking Policy ,SMOP,Smoking permitted without restriction ,,Y,Y,Y
+SET,"Service Setting (e.g., Outpatient, Residential, etc.)",HI,Hospital inpatient ,,Y,Y,Y
+SET,"Service Setting (e.g., Outpatient, Residential, etc.)",RES,Residential,,Y,Y,Y
+SET,"Service Setting (e.g., Outpatient, Residential, etc.)",PHDT,Partial hospitalization/day treatment ,,N,Y,N
+SET,"Service Setting (e.g., Outpatient, Residential, etc.)",OP,Outpatient ,,Y,Y,Y
+SET,"Service Setting (e.g., Outpatient, Residential, etc.)",RS,Short-term residential,,Y,N,N
+SET,"Service Setting (e.g., Outpatient, Residential, etc.)",RL,Long-term residential,,Y,N,N
+SET,"Service Setting (e.g., Outpatient, Residential, etc.)",RD,Residential detoxification,,Y,N,N
+SET,"Service Setting (e.g., Outpatient, Residential, etc.)",OD,Outpatient detoxification,,Y,N,N
+SET,"Service Setting (e.g., Outpatient, Residential, etc.)",OMB,Outpatient methadone/buprenorphine or naltrexone,,Y,N,N
+SET,"Service Setting (e.g., Outpatient, Residential, etc.)",ODT,Outpatient day treatment or partial hospitalization,,Y,N,N
+SET,"Service Setting (e.g., Outpatient, Residential, etc.)",OIT,Intensive outpatient treatment,,Y,N,N
+SET,"Service Setting (e.g., Outpatient, Residential, etc.)",ORT,Regular outpatient treatment,,Y,N,N
+SET,"Service Setting (e.g., Outpatient, Residential, etc.)",HID,Hospital inpatient detoxification,,Y,N,N
+SET,"Service Setting (e.g., Outpatient, Residential, etc.)",HIT,Hospital inpatient treatment,,Y,N,N
+SET,"Service Setting (e.g., Outpatient, Residential, etc.)",CT,Computerized treatment,,Y,N,N
+SET,"Service Setting (e.g., Outpatient, Residential, etc.)",GH,General Hospital(including VA hospital) ,,Y,N,N
+SET,"Service Setting (e.g., Outpatient, Residential, etc.)",PSYH,Psychiatric hospital ,,Y,N,N
+FOP,"Facility Operation (e.g. Private, Public)",PVT,Private organization,,Y,Y,Y
+FOP,"Facility Operation (e.g. Private, Public)",VAMC,U.S. Department of Veterans Affairs,,Y,Y,Y
+FOP,"Facility Operation (e.g. Private, Public)",SMA,State mental health authority,,N,Y,N
+FOP,"Facility Operation (e.g. Private, Public)",OSG,Other state government agency,,N,Y,N
+FOP,"Facility Operation (e.g. Private, Public)",LMG,"Regional/district or county, local or municipal government",,N,Y,N
+FOP,"Facility Operation (e.g. Private, Public)",TBG,Tribal government,,Y,Y,Y
+FOP,"Facility Operation (e.g. Private, Public)",IH,Indian Health Service,,Y,Y,Y
+FOP,"Facility Operation (e.g. Private, Public)",STG,State Government,,Y,N,N
+FOP,"Facility Operation (e.g. Private, Public)",LCCG,"Local, county, or community government",,Y,N,N
+FOP,"Facility Operation (e.g. Private, Public)",DDF,Department of Defense,,Y,N,N
+LCA,Licence/certification/accreditation,STAG,State substance abuse agency,,Y,N,N
+LCA,Licence/certification/accreditation,STMH,State mental health department,,Y,N,N
+LCA,Licence/certification/accreditation,STDH,State department of health,,Y,N,N
+LCA,Licence/certification/accreditation,HLA,Hospital licensing authority,,Y,N,N
+LCA,Licence/certification/accreditation,JC,The Joint Commission,,Y,N,N
+LCA,Licence/certification/accreditation,CARF,Commission on Accreditation of Rehabilitation Facilities,,Y,N,N
+LCA,Licence/certification/accreditation,NCQA,National Committee for Quality Assurance ,,Y,N,N
+LCA,Licence/certification/accreditation,COA,Council on Accreditation ,,Y,N,N
+LCA,Licence/certification/accreditation,HFAP,Healthcare Facilitiues Accreditation Program ,,Y,N,N
+PAY,Payment/Insurance Accepted,NP,No payment accepted,,Y,N,N
+PAY,Payment/Insurance Accepted,SF,Cash or self-payment,,Y,Y,Y
+PAY,Payment/Insurance Accepted,MD,Medicaid,,Y,Y,Y
+PAY,Payment/Insurance Accepted,MC,Medicare,,Y,Y,Y
+PAY,Payment/Insurance Accepted,SI,State financed health insurance plan other than Medicaid,,Y,Y,Y
+PAY,Payment/Insurance Accepted,PI,Private health insurance,,Y,Y,Y
+PAY,Payment/Insurance Accepted,MI,"Military insurance (e.g., TRICARE)",,Y,Y,Y
+PAY,Payment/Insurance Accepted,ITU,IHS/Tribal/Urban (ITU) funds,,Y,Y,Y
+PAY,Payment/Insurance Accepted,ATR,Access to recovery (ATR) voucher,,Y,N,N
+PAY,Payment/Insurance Accepted,SMHA,State mental health agency (or equivalent) funds,,N,Y,N
+PAY,Payment/Insurance Accepted,SWFS,State welfare or child and family services funds,,N,Y,N
+PAY,Payment/Insurance Accepted,SCJJ,State corrections or juvenile justice funds,,N,Y,N
+PAY,Payment/Insurance Accepted,SEF,State education funds,,N,Y,N
+PAY,Payment/Insurance Accepted,OSF,Other State funds,,N,Y,N
+PAY,Payment/Insurance Accepted,CLF,County or local government funds,,N,Y,N
+PAY,Payment/Insurance Accepted,CSBG,Community Service Block Grants,,N,Y,N
+PAY,Payment/Insurance Accepted,CMHG,Community Mental Health Block Grants,,N,Y,N
+PAY,Payment/Insurance Accepted,VAF,U.S Department of VA funds,,N,Y,N
+PAY,Payment/Insurance Accepted,FSA,"Federal, or any government funding for substance abuse programs",,Y,N,N
+EMS,Emergency Mental Health Services,CIT,Crisis intervention team,,N,Y,N
+EMS,Emergency Mental Health Services,WI,Psychiatric emergency walk-in services,,N,Y,N
+PYAS,Payment Assistance Available,SS,Sliding fee scale (fee is based on income and other factors),,Y,Y,Y
+PYAS,Payment Assistance Available,PA,Payment assistance (check with facility for details),,Y,Y,Y
+SG,Special Programs/Groups Offered,CO,Persons with co-occurring mental and substance abuse disorders,,Y,Y,Y
+SG,Special Programs/Groups Offered,GL,"Lesbian, gay, bisexual, or transgender (LGBT) clients",,Y,Y,Y
+SG,Special Programs/Groups Offered,VET,Veterans,,Y,Y,Y
+SG,Special Programs/Groups Offered,ADM,Active duty military,,Y,Y,Y
+SG,Special Programs/Groups Offered,MF,Military families,,Y,Y,Y
+SG,Special Programs/Groups Offered,CJ,Clients referred from the court/judicial system ,,Y,Y,Y
+SG,Special Programs/Groups Offered,SE,Seniors or older adults,,Y,Y,Y
+SG,Special Programs/Groups Offered,AD,Adolescents,,Y,N,N
+SG,Special Programs/Groups Offered,PW,Pregnant/postpartum women,,Y,N,N
+SG,Special Programs/Groups Offered,WN,Adult women,,Y,N,N
+SG,Special Programs/Groups Offered,MN,Adult men,,Y,N,N
+SG,Special Programs/Groups Offered,HV,Persons with HIV or AIDS,,Y,Y,Y
+SG,Special Programs/Groups Offered,TRMA,Persons who have experienced trauma,,Y,Y,Y
+SG,Special Programs/Groups Offered,XA,Persons who have experienced sexual abuse,,Y,N,N
+SG,Special Programs/Groups Offered,DV,"Persons who have experienced intimate partner violence, domestic violence",,Y,N,N
+SG,Special Programs/Groups Offered,SED,Children with serious emotional disturbance (SED),,N,Y,N
+SG,Special Programs/Groups Offered,SMI,Persons with serious mental illness (SMI),,N,Y,N
+SG,Special Programs/Groups Offered,ALZ,Persons with Alzheimer's or dementia,,N,Y,N
+SG,Special Programs/Groups Offered,PTSD,Persons with post-traumatic stress disorder (PTSD),,N,Y,N
+SG,Special Programs/Groups Offered,TBI,Persons with traumatic brain injury (TBI),,N,Y,N
+SG,Special Programs/Groups Offered,TAY,Transitional age young adults,,Y,Y,Y
+SG,Special Programs/Groups Offered,PED,Persons with eating disorders,,N,Y,N
+AS,Ancillary Services,ACT,Assertive community treatment,,N,Y,N
+AS,Ancillary Services,ICM,Intensive case management,,N,Y,N
+AS,Ancillary Services,CM,Case management,,Y,Y,Y
+AS,Ancillary Services,CDM,Chronic disease/illness management,,N,Y,N
+AS,Ancillary Services,PEER,Consumer-run (peer-support) services,,Y,Y,Y
+AS,Ancillary Services,COOT,Court-ordered outpatient treatment,,N,Y,N
+AS,Ancillary Services,DEC,Diet and exercise counseling,,N,Y,N
+AS,Ancillary Services,ES,Education services,,N,Y,N
+AS,Ancillary Services,HEOH,Health education services other than HIV/AIDS or hepatitis,,Y,N,N
+AS,Ancillary Services,FPSY,Family psychoeducation,,Y,Y,Y
+AS,Ancillary Services,HS,Housing services,,Y,Y,Y
+AS,Ancillary Services,IMR,Illness management and recovery,,N,Y,N
+AS,Ancillary Services,IPC,Integrated primary care service,,N,Y,N
+AS,Ancillary Services,LAD,Legal advocacy,,N,Y,N
+AS,Ancillary Services,NRT,Nicotine replacement therapy,,Y,Y,Y
+AS,Ancillary Services,NSC,Non-nicotine smoking/tobacco cessation medications,,Y,Y,Y
+AS,Ancillary Services,PRS,Psychosocial rehabilitation services,,N,Y,N
+AS,Ancillary Services,STU,Screening for tobacco use,,Y,Y,Y
+AS,Ancillary Services,SPS,Suicide prevention services,,N,Y,N
+AS,Ancillary Services,SEMP,Supported employment,,N,Y,N
+AS,Ancillary Services,SH,Supported housing,,N,Y,N
+AS,Ancillary Services,TPC,Therapeutic foster care,,N,Y,N
+AS,Ancillary Services,TCC,Smoking/tobacco cessation counselling,,Y,Y,Y
+AS,Ancillary Services,VRS,Vocational rehabilitation services,,N,Y,N
+AS,Ancillary Services,SSA,Screening for substance abuse,,Y,N,N
+AS,Ancillary Services,SMHD,Screening for mental health disorders,,Y,N,N
+AS,Ancillary Services,CSAA,Comprehensive substance abuse assessment,,Y,N,N
+AS,Ancillary Services,CMHA,Comprehensive mental health assessment,,Y,N,N
+AS,Ancillary Services,OPC,Outreach to persons in the community,,Y,N,N
+AS,Ancillary Services,ISC,Interim services for clients,,Y,N,N
+AS,Ancillary Services,BABA,Breath analyzer or blood alcohol testing,,Y,N,N
+AS,Ancillary Services,DAUT,Drug or alcohol urine screening,,Y,N,N
+AS,Ancillary Services,SHB,Screening for Hepatitis B,,Y,N,N
+AS,Ancillary Services,SHC,Screening for Hepatitis C,,Y,N,N
+AS,Ancillary Services,HIVT,HIV testing,,Y,N,N
+AS,Ancillary Services,STDT,STD testing,,Y,N,N
+AS,Ancillary Services,TBS,TB screening,,Y,N,N
+AS,Ancillary Services,DP,Discharge Planning,,Y,N,N
+AS,Ancillary Services,ACC,Aftercare/continuing care,,Y,N,N
+AS,Ancillary Services,SSD,Social skills development,,Y,N,N
+AS,Ancillary Services,CCC,Child care for clients children,,Y,N,N
+AS,Ancillary Services,ASS,Assistance with obtaining social services,,Y,N,N
+AS,Ancillary Services,EMP,Employment counseling or training,,Y,N,N
+AS,Ancillary Services,DVFP,Domestic violence services - family or partner,,Y,N,N
+AS,Ancillary Services,EIH,Early intervention for HIV,,Y,N,N
+AS,Ancillary Services,HAEC,"HIV or AIDS education, counseling, or support",,Y,N,N
+AS,Ancillary Services,TAEC,"Hepatitis education, counseling, or support",,Y,N,N
+AS,Ancillary Services,SAE,Substance abuse education,,Y,N,N
+AS,Ancillary Services,TA,Transportation assistance,,Y,N,N
+AS,Ancillary Services,MHS,Mental health services,,Y,N,N
+AS,Ancillary Services,ACU,Acupuncture,,Y,N,N
+AS,Ancillary Services,SHG,Self-help groups,,Y,N,N
+AS,Ancillary Services,ADD,Treatment for non-substance abuse addiction disorder,,Y,N,N
+AS,Ancillary Services,ADTX,Alcohol Detoxification,,Y,N,N
+AS,Ancillary Services,BDTX,Benzodiazepines Detoxification,,Y,N,N
+AS,Ancillary Services,CDTX,Cocaine Detoxification,,Y,N,N
+AS,Ancillary Services,MDTX,Methamphetamines Detoxification,,Y,N,N
+AS,Ancillary Services,ODTX,Opioids Detoxification,,Y,N,N
+AS,Ancillary Services,TGD,Treatment for gambling disorder,,Y,N,N
+AS,Ancillary Services,TID,Treatment for internet use disorder,,Y,N,N
+AS,Ancillary Services,ICO,Individual counseling offered,,Y,N,N
+AS,Ancillary Services,GCO,Group counseling offered,,Y,N,N
+AS,Ancillary Services,FCO,Family counseling offered,,Y,N,N
+AS,Ancillary Services,MCO,Marital/couples counseling offered,,Y,N,N
+AS,Ancillary Services,BC,Residential beds for clients children  ,,Y,N,N
+AGE,Age Groups Accepted,CHLD,Children/adolescents,,Y,Y,Y
+AGE,Age Groups Accepted,YAD,Young adults ,,Y,Y,Y
+AGE,Age Groups Accepted,ADLT,Adults,,Y,Y,Y
+AGE,Age Groups Accepted,SNR,Seniors (65 or older),,N,Y,N
+GN,Gender Accepted,FEM,Female,,Y,N,N
+GN,Gender Accepted,MALE,Male,,Y,N,N
+EXCL,Exclusive Services,BMO,Methadone and buprenorphine clients only,,Y,N,N
+EXCL,Exclusive Services,MO,Methadone clients only,,Y,N,N
+EXCL,Exclusive Services,DU,DUI/DWI clients,,Y,N,N
+EXCL,Exclusive Services,DUO,Serve only DWI clients,,Y,N,N
+SL,Language Services,AH,Services for the deaf and hard of hearing,,Y,Y,Y
+SL,Language Services,NX,Native American Indian or Alaska Native languages,,Y,Y,Y
+SL,Language Services,FX,Other languages(excluding Spanish),,Y,Y,Y
+AIL,American Indian or Alaskan Native Languages,N13,Hopi,,Y,Y,Y
+AIL,American Indian or Alaskan Native Languages,N18,Lakota,,Y,Y,Y
+AIL,American Indian or Alaskan Native Languages,N23,Navajo,,Y,Y,Y
+AIL,American Indian or Alaskan Native Languages,N24,Ojibwa,,Y,Y,Y
+AIL,American Indian or Alaskan Native Languages,N40,Yupik,,Y,Y,Y
+OL,Other Languages,F4,Arabic,,Y,Y,Y
+OL,Other Languages,F17,Any Chinese Language,,Y,Y,Y
+OL,Other Languages,F19,Creole,,Y,Y,Y
+OL,Other Languages,F25,Farsi,,Y,Y,Y
+OL,Other Languages,F28,French,,Y,Y,Y
+OL,Other Languages,F30,German,,Y,Y,Y
+OL,Other Languages,F31,Greek,,Y,Y,Y
+OL,Other Languages,F35,Hebrew,,Y,Y,Y
+OL,Other Languages,F36,Hindi,,Y,Y,Y
+OL,Other Languages,F37,Hmong,,Y,Y,Y
+OL,Other Languages,F42,Italian,,Y,Y,Y
+OL,Other Languages,F43,Japanese,,Y,Y,Y
+OL,Other Languages,F47,Korean,,Y,Y,Y
+OL,Other Languages,F66,Polish,,Y,Y,Y
+OL,Other Languages,F67,Portuguese,,Y,Y,Y
+OL,Other Languages,F70,Russian,,Y,Y,Y
+OL,Other Languages,SP,Spanish,,Y,Y,Y
+OL,Other Languages,F81,Tagalog,,Y,Y,Y
+OL,Other Languages,F92,Vietnamese,,Y,Y,Y
