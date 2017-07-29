@@ -1,4 +1,4 @@
-   category_code,category_name,service_code,service_name,service_description,sa_code,mh_code,both_code 
+category_code,category_name,service_code,service_name,service_description,sa_code,mh_code,both_code 
 PF,Primary Focus of the Provider,SAF,Substance Abuse Treatment Services,,Y,N,N
 PF,Primary Focus of the Provider,MHF,Mental Health Treatment Services,,Y,N,N
 PF,Primary Focus of the Provider,MHSAF,Mix of Mental Health and Substance Abuse,,Y,N,N
