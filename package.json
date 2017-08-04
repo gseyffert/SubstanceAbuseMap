@@ -17,7 +17,7 @@
   },
   "keywords": [],
   "author": "Graham Seyffert, Chelsea Goddard",
-  "license": "ISC",
+  "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/gseyffert/SubstanceAbuseMap/issues"
   },
