@@ -17,9 +17,9 @@ To build the application and listen for changes, type:
 npm run start
 ```
 
-This will run a webpack build in watch mode and output the bundle JavaScript to the `dist` directory.
+This will run a webpack build in watch mode and output the bundled JavaScript to the `dist` directory.
 
-To serve the application (requires python), type:
+To serve the application (requires python), open another terminal window and navigate back to the map directory (if necessary) & type:
 
 ```
 python -m SimpleHTTPServer
